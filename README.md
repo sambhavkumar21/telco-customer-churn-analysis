@@ -43,9 +43,8 @@ This project analyzes telecom customer churn behavior to identify factors contri
 ## Project Structure:
 
 customer-churn-analysis:
-│
-├── Excel_Dashboard
-├── SQL_Analysis
-├── Tableau_Dashboard
-├── Screenshots
-└── README.md
+-Excel_Dashboard
+-SQL_Analysis
+-Tableau_Dashboard
+- Screenshots
+- -README.md
