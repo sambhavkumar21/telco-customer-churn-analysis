@@ -37,7 +37,9 @@ This project analyzes telecom customer churn behavior to identify factors contri
 
 ## Dashboard Preview
 ![Tableau Dashboard](Screenshot-dashboard.png)
-
+#Tableau Dashboard Link:
+[View Interactive Dashboard]
+https://public.tableau.com/views/CustomerChurnAnalysis_17786616138930/CustomerChurnAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ---
 
 ## Project Structure:
